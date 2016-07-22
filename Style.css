@@ -1,3 +1,8 @@
+body {
+	font: 16px Helvetica, Sans-Serif;
+	background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/swirl_pattern.png);
+}
+
 .name {
   background-color: #FFEE71;
 }
