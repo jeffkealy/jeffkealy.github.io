@@ -8,9 +8,9 @@ body {
   background-color: #e6e6e6;
 }
 .date {
-	float: right;
+	float: left;
   margin-left: 400px;
-  margin-right: 8px;
+ 
 }
 .summary {
   font-style: bold;
