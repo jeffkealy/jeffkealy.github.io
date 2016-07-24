@@ -10,7 +10,7 @@ body {
 .date {
 	float: right;
 	margin-right: 300px;
-	text-align: left;
+	vertical-align: baseline;
  
  
 }
