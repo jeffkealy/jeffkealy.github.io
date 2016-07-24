@@ -11,6 +11,10 @@ body {
   float: right; 
   margin-right: 8px;
 }
+.date {
+  font-style: bold;
+	font-size: 20px;
+}
 
 #pic {
 	float: right;
