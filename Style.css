@@ -8,7 +8,7 @@ body {
   background-color: #e6e6e6;
 }
 .date {
-  float: right; 
+  margin-left: 200px;
   margin-right: 8px;
 }
 .summary {
