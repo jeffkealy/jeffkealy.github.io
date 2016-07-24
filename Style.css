@@ -1,7 +1,7 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
 	background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/swirl_pattern.png);
-	       margin: 50px;
+	       margin: 100px;
 }
 
 .name {
@@ -9,7 +9,7 @@ body {
 }
 .date {
 	float: right;
-	margin-right: 300px;
+	margin-right: 250px;
 	font-size: 24px;
 }
 .job	{
