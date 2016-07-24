@@ -13,19 +13,19 @@ body {
 	font-size: 24px;
 }
 .job	{
-	margin-right: 300px;
+	margin-right: 250px;
 }
 .summary {
   font-style: bold;
 	font-size: 20px;
-	margin-right: 300px;
+	margin-right: 250px;
 }
 
 
 #pic {
 	float: right;
-	height: 205px; 
-	width: 205px;
+	height: 225px; 
+	width: 225px;
 }
 h1 {
 	border-bottom: 2px solid #999;
