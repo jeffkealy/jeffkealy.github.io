@@ -18,7 +18,9 @@ body {
 .summary {
   font-style: bold;
 	font-size: 20px;
+	margin-right: 300px;
 }
+
 
 #pic {
 	float: right;
