@@ -1,7 +1,7 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
 	background: url(http://i.imgur.com/QcaW4Uh.png);
-	       margin: 100px;
+	       margin: 200px;
 }
 
 .name {
@@ -31,7 +31,7 @@ body {
 }
 h1 {
 	
-	margin-right: 250px;
+	
 	border-bottom: 2px solid #999;
 	background-color: #e6e6e6;
   
