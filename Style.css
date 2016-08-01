@@ -23,11 +23,13 @@ body {
 
 
 #pic {
+	margin-right: 250px;
 	float: right;
 	height: 206px; 
 	width: 236px;
 }
 h1 {
+	
 	margin-right: 250px;
 	border-bottom: 2px solid #999;
 	background-color: #e6e6e6;
