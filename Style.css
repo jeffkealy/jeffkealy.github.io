@@ -3,6 +3,7 @@ body {
 	background: url(http://i.imgur.com/QcaW4Uh.png);
 	       margin-right: 200px;
 	       margin-left: 200px;
+	       min-width: 600px;
 }
 
 .name {
