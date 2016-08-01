@@ -25,6 +25,7 @@ body {
 
 
 #pic {
+	border-radius: 25px;
 	margin-top: 10px;
 	margin-right: 10px;
 	float: right;
